@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=chemis-ubuntutouch
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/chemis-ubuntutouch/chemis-ubuntutouch.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
