@@ -1,7 +1,3 @@
-<img width="100" src="https://s3.amazonaws.com/chemis/chemis-logo-no-bg.png"><br>
-Chemis Ubuntu Touch (deprecated)
-=============
+# Deprecated
 
-This project is discontinued! We have no intentions at the moment to keep supporting the Ubuntu Touch version of Chemis due to the current marketshare of this OS (2017-03-01), but we don't exclude any future possibility to continue this project.<br>
-
-Any questions or suggestions, contact us at chemisproject@googlegroups.com
+This project is discontinued! We have no intentions to keep supporting Ubuntu Touch platform due to [this official announcement](https://blog.ubuntu.com/2017/04/05/growing-ubuntu-for-cloud-and-iot-rather-than-phone-and-convergence) discountinuing official Canonical's development of OS.
